@@ -31,6 +31,16 @@
         <input type="button" class="fadeIn fourth" value="Log In" Onclick="login();">
        
 
+       <!-- <input type="text" id="login" class="fadeIn second" name="login" placeholder="login">
+        <input type="text" id="password" class="fadeIn third" name="login" placeholder="password">
+
+        <input type="text" id="login" class="fadeIn second" name="login" placeholder="login">
+        <input type="text" id="password" class="fadeIn third" name="login" placeholder="password">
+
+        <input type="text" id="login" class="fadeIn second" name="login" placeholder="login">
+        <input type="text" id="password" class="fadeIn third" name="login" placeholder="password">
+
+-->
     
 
     </div>
@@ -62,4 +72,3 @@
 </html>
 
 
-<?php echo 55;  `?>
